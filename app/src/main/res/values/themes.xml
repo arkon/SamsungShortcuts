@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.SmartViewLauncher" parent="android:Theme.Translucent" />
+    <style name="Theme.SamsungShortcuts" parent="android:Theme.Translucent" />
 </resources>

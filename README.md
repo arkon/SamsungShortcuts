@@ -1,6 +1,7 @@
-# Smart View Launcher
+# Samsung shortcuts 
 
-Basic app that serves as a shortcut to open Smart View on Samsung devices.
+Some "apps" that just act as trampolines to other features that may be harder to access in Samsung's
+One UI skin.
 
-Without this, you either need to open it via the notifications/quick settings pane, or in Settings.
-Neither is particularly memorable for the more technologically illiterate users. 
+- Smart View (normally buried in either the Quick Settings pane or Settings)
+- Voice Assistant (One UI 7 removed the navigation bar swipe gesture, and I have the power button remapped)

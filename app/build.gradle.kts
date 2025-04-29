@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.samsung.android.smartmirroring.launcher"
+    namespace = "com.samsung.android.shortcuts"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.samsung.android.smartmirroring.launcher"
+        applicationId = "com.samsung.android.shortcuts"
         minSdk = 34
         targetSdk = 35
         versionCode = 1

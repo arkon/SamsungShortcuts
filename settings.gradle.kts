@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SmartViewLauncher"
+rootProject.name = "Samsung Shortcuts"
 include(":app")
  
