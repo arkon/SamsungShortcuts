@@ -7,4 +7,4 @@ android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 
 [libraries]
-androidx-core = { group = "androidx.core", name = "core-ktx", version = "1.16.0" }
+androidx-core = { group = "androidx.core", name = "core-ktx", version = "1.17.0" }
