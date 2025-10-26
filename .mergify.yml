@@ -1,7 +1,7 @@
 pull_request_rules:
-  - name: Automatic merge during office hours
-    description: Merge when PR passes all branch protection during office hours
+  - name: Automatic merge
+    description: Merge when PR passes all branch protection and has label automerge
     conditions:
-      - schedule = Mon-Fri 09:00-17:00[America/Los_Angeles]
+        - author = renovate[bot]
     actions:
       merge:
