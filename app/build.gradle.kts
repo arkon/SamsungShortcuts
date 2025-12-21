@@ -11,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId = "com.samsung.android.shortcuts"
-        minSdk = 34
+        minSdk = 35
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
@@ -36,8 +36,4 @@ android {
             jvmTarget = JvmTarget.JVM_17
         }
     }
-}
-
-dependencies {
-    implementation(libs.androidx.core)
 }
